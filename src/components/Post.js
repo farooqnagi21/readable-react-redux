@@ -3,8 +3,7 @@ import Card from "@material-ui/core/Card"
 import CardHeader from "@material-ui/core/CardHeader"
 import IconButton from '@material-ui/core/IconButton'
 import CardContent from '@material-ui/core/CardContent'
-import MoreVertIcon from '@material-ui/icons/MoreVert'
-import Button from "@material-ui/core/Button";
+
 import Menu from '@material-ui/core/Menu'
 import MenuItem from '@material-ui/core/MenuItem'
 import LikeIcon from '@material-ui/icons/ThumbUp'
