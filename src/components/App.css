@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.label{
+  font-size: medium;
+    color: black;
+}
+.cardlabel{
+  padding: 10px 10px;
+  font-size: small;
+}
+.cardIcon
+{
+  margin-left: 15px !important;
+}
+.center{
+  padding: 50px 300px;
+  text-align: left;
+}
+
+.formAddPost{
+  padding: 50px 300px;
+  text-align: left;
+}
+
+.buttonClass{
+  margin: 10px !important;
+
+}
+.classes.root{
+  margin: 10px !important;
+}
+
+
+
